@@ -1,1 +1,2 @@
-Extending the repository for generating random lambda expressions for visualization and storage
+This repository contains a collection of tools to generate and study
+random lambda expressions.
